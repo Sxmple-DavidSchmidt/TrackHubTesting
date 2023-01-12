@@ -1,0 +1,5 @@
+track bam
+bigDataUrl data/bam/random_alignment.bam
+shortLabel Example bam
+longLabel Example of a bam generated using ArtificialFastqGenerator
+type bam
