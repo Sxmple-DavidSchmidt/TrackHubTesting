@@ -1,0 +1,4 @@
+hub BasicExampleHub
+shortLabel Basic Example Hub
+longLabel Basic Example Hub for testing
+genomesFile genomes.txt
